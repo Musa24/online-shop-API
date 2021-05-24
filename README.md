@@ -18,4 +18,6 @@
 3. React JS
 4. Node js
 5. Bootstrap
- 
+6. Redux
+7. React-redux
+8. Redux-thunk
