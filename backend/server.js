@@ -48,7 +48,6 @@ app.use(notFound);
 app.use(errorHandler);
 
 const PORT = 5000;
-const mode = development;
 app.listen(PORT, () => {
-  console.log(`The server is running on port ${PORT}  in ${mode} mode `);
+  console.log(`The server is running on port ${PORT}`);
 });
